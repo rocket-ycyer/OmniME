@@ -1,0 +1,15 @@
+# Ignore everything by default
+*
+
+# Allow directory traversal
+!*/
+
+# Only track .py and .sh files
+!*.py
+!*.sh
+
+# Exclude these directories
+/data/
+/deps/
+/eval-deps/
+/experiments/
