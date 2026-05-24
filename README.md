@@ -20,6 +20,10 @@
 
 Our data and environment follow [SimMotionEdit](https://github.com/lzhyu/SimMotionEdit.git). Please refer to [motionfix](https://github.com/atnikos/motionfix) to download the dataset and set up the environment, then place the data in the corresponding locations.
 
+## Pretrained Checkpoint
+
+You can download our pretrained checkpoint from [Baidu Pan](https://pan.baidu.com/s/1Ek0h_I-EKEDY8h6FaBRk8Q?pwd=sd9s) (code: `sd9s`). The directory structure follows the same layout as [SimMotionEdit](https://github.com/lzhyu/SimMotionEdit.git).
+
 ## Training
 
 ```bash
