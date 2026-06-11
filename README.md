@@ -13,7 +13,7 @@
     <img src='https://img.shields.io/badge/GitHub-Code-black?style=flat&logo=github&logoColor=white' alt='GitHub'>
   </a>
   <a href='https://arxiv.org/pdf/2605.30969'>
-    <img src='https://img.shields.io/badge/Arxiv-2605.30969-A42C25?style=flat&logo=arXiv&logoColor=A42C25' alt='Arxiv'>
+    <img src='https://img.shields.io/badge/Arxiv-2605.30969%20(Latest)-A42C25?style=flat&logo=arXiv&logoColor=A42C25' alt='Arxiv Latest'>
   </a>
 </p>
 
