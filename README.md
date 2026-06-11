@@ -12,6 +12,9 @@
   <a href='https://github.com/rocket-ycyer/OmniME'>
     <img src='https://img.shields.io/badge/GitHub-Code-black?style=flat&logo=github&logoColor=white' alt='GitHub'>
   </a>
+  <a href='https://arxiv.org/pdf/2605.30969'>
+    <img src='https://img.shields.io/badge/Arxiv-2605.30969-A42C25?style=flat&logo=arXiv&logoColor=A42C25' alt='Arxiv'>
+  </a>
 </p>
 
 ---
@@ -19,6 +22,8 @@
 ## Environment & Data Setup
 
 Our data and environment follow [SimMotionEdit](https://github.com/lzhyu/SimMotionEdit.git). Please refer to [motionfix](https://github.com/atnikos/motionfix) to download the dataset and set up the environment, then place the data in the corresponding locations.
+
+The STANCE dataset can be downloaded from [Baidu Pan](https://pan.baidu.com/s/10it5Ma1AqV9s8fFKzWFW5w?pwd=qk8y) (code: `qk8y`).
 
 ## Pretrained Checkpoint
 
